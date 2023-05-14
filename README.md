@@ -62,4 +62,4 @@ You can click the Preview link to take a look at your changes.
 </div>
 <h3>current streak stats</h3>
 <a href="http://github-readme-streak-stats.herokuapp.com?user=Rogetz&theme=dark">Git Streak</a>
-<img src="https://git.io/streak-stats"/>
+<img src="https://git.io/streak-stats" width="100" height="50"/>
