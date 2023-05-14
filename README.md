@@ -8,5 +8,5 @@ am a guy interested in everything to do with coding so if you have any interesti
 Rogetz/Rogetz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div align="center">
+<div>
 ![](https://komarev.com/ghpvc/?username=Rogetz&label=PROFILE+VIEWS)</div>
