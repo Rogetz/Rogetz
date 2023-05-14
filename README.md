@@ -10,11 +10,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-  <a href="your-linkedin-URL">
+<a href="your-linkedin-URL">
 
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
-  </a>
+</a>
 
 <a href="your-youtube-URL">
 
@@ -27,4 +27,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Rogetz&style=flat-square&color=blue" alt=""/>
