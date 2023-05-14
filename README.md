@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-<a href="your-linkedin-URL">
+<a href="https://www.linkedin.com/in/ronny-odhiambo-515535241">
 
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
