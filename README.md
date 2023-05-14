@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Rogetz 
-- 👀 I’m interested in ... software development
-- 🌱 I’m currently learning ... software engineering
-- 💞️ I’m looking to collaborate on ...javascript projects and python projects
-- 📫 How to reach me ... you can contact me via my email ronnyogetaz@gmail.com
-am a guy interested in everything to do with coding so if you have any interesting project you want to plug me in feel free to plug me in.
+- 👀 Yeap, I like to see. 😂😂I mean,see the world change.
+- 🌱 web technologies geek
+- 💞️ passionate about the web and web technology.
+- 📫 send me an email at ronnyogetaz@gmail.com. Lets make it happen.
 <!---
 Rogetz/Rogetz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
