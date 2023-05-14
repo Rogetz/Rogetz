@@ -62,3 +62,4 @@ You can click the Preview link to take a look at your changes.
 </div>
 <h3>current streak stats</h3>
 <p><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Rogetz&amp;theme=dark" alt="GitHub Streak"></a></p>
+<h3>Latest used languages</h3>
