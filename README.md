@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 </a>
 
-<a href="your-twitter-URL">
+<a href="https://www.twitter.com/ronnyogetaz">
 <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 
 </a>
