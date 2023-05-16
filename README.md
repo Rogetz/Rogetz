@@ -65,5 +65,5 @@ You can click the Preview link to take a look at your changes.
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=Rogetz&amp;show_icons=true&amp;theme=transparent" alt="Anurag&#39;s GitHub stats"></p>
 <h3>Top ranked languages</h3>
-<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogetz&amp;layout=compact&amp;theme=vision-friendly-dark" alt="Top Langs"></a></p>
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogetz&amp;&langs_count=10&amp;layout=compact&amp;theme=vision-friendly-dark" alt="Top Langs"></a></p>
 
