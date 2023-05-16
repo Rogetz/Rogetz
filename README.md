@@ -64,4 +64,4 @@ You can click the Preview link to take a look at your changes.
 <h3>Top ranked languages</h3>
 <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogetz&amp;layout=compact&amp;theme=vision-friendly-dark" alt="Top Langs"></a></p>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rogetz&show_icons=true&theme=transparent)
