@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 </a>
 </div>
-<h3>Github profile views</h3>
+<h3>Github visitors</h3>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Rogetz&style=flat-square&color=blue" alt=""/>
 </div>
